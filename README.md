@@ -1,6 +1,4 @@
-That sounds like an awesome workshop you're putting together! Here's a draft README for your GitHub repository that you can use for your workshop. It includes a disclaimer, setup instructions, and guidance for running the code in Google Colab.
 
----
 
 # GDG DevFest 2025 Workshop: Building a CNN Model to Detect Early Signs of Brain Cancer
 
