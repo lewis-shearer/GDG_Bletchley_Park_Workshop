@@ -61,6 +61,7 @@ To follow along with this workshop, you'll need access to the following:
 ## About the Presenter
 **Lewis Shearer**  
 AI/ML Enthusiast | Secondary Student | Software Enthusiast
+
 Feel free to reach out to me on GitHub or via my [Twitter](https://twitter.com/lewis-shearer) for any questions!
 
 ---
